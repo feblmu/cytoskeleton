@@ -3,8 +3,8 @@
 
 The paper is available at eNeuro:
 
-    - https://www.eneuro.org/content/early/2022/10/10/ENEURO.0342-22.2022
-    - https://doi.org/10.1523/ENEURO.0342-22.2022
+    https://www.eneuro.org/content/early/2022/10/10/ENEURO.0342-22.2022
+    https://doi.org/10.1523/ENEURO.0342-22.2022
 
 ## How to computed the topological backbone of the cytoskeleton
 
